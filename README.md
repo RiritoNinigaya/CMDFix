@@ -1,2 +1,2 @@
 # CMDFix
-It is Fix to preventing Crash on DLL File!!! Enjoy!!!
+It is Fix to preventing Crash on DLL Source Code File!!! Enjoy!!!
