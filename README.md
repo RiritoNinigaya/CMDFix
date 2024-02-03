@@ -1,2 +1,2 @@
 # CMDFix
-CMDFix by RiritoNinigaya(It is Only Header)
+It is Fix to preventing Crash on DLL File!!! Enjoy!!!
